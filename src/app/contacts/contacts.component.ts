@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <p>
       contacts works!
+      
     </p>
   `,
   styles: [
