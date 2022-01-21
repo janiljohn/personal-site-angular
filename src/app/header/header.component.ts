@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
       <div class="navbar-end" style="flex-grow: 1; justify-content: center;">
         <a class="navbar-item navbar-center" href="#home">Home</a>
         <a class="navbar-item navbar-center" href="#projects">Projects</a>
-        <a class="navbar-item navbar-center" href="#">Contacts</a>
+        <a class="navbar-item navbar-center" href="#contacts">Contacts</a>
       </div>
     </div>
   </div>

@@ -120,6 +120,61 @@ import { Component, OnInit } from '@angular/core';
 
         </div>
 
+
+        <div class="columns">
+
+          <div class="column is-half">
+              <div class="card">
+                <div class="card-content">
+                  <div class="card-image has-text-centered">
+                      <figure class="image is-inline-block">
+                          <img class="" src="/assets/img/personal-website.png"/>
+                      </figure>
+                  </div>
+                  <div class="title is-6 project-title-spacing">
+                    Portfolio Website
+                    <div class="is-inline-block inner-div">
+                      <a href="https://github.com/janiljohn/personal-site-angular" target="_blank">
+                        <i class="bi bi-github"></i>
+                      </a>
+                    </div>
+                  </div>              
+                    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="" class="badges">
+                    <hr class="hr-padding">
+                  <div class="content">
+                    Personal portfolio website made using Angular and the CSS framework Bulma.
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="column is-half">
+              <div class="card">
+                <div class="card-content">
+                  <div class="card-image has-text-centered">
+                      <figure class="image is-inline-block">
+                          <img class="" src="/assets/img/acm-discord-bot.png"/>
+                      </figure>
+                  </div>
+                  <div class="title is-6 project-title-spacing">
+                    ACM CSUF Discord Bot
+                    <div class="is-inline-block inner-div">
+                      <a href="https://github.com/jorgeemejia/ACM-CSUF-Discord-Bot" target="_blank">
+                        <i class="bi bi-github"></i>
+                      </a>
+                    </div>
+                  </div>              
+                    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="" class="badges">
+                    <hr class="hr-padding">
+                  <div class="content">
+                    Contributed to the discord bot used in the ACM discord server at CSUF. The bot was built using the discord.py wrapper API.
+                  </div>
+                </div>
+              </div>
+            </div>
+
+        </div>
+
       </div>
 
       
