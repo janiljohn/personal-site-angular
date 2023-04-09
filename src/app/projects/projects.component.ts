@@ -172,6 +172,39 @@ import { Component, OnInit } from '@angular/core';
                 </div>
               </div>
             </div>
+            
+
+        </div>
+
+        <div class="columns">
+
+          <div class="column is-half">
+              <div class="card">
+                <div class="card-content">
+                  <div class="card-image has-text-centered">
+                      <figure class="image is-inline-block">
+                          <img class="" src="/assets/img/movify.png"/>
+                      </figure>
+                  </div>
+                  <div class="title is-6 project-title-spacing">
+                    Movify
+                    <div class="is-inline-block inner-div">
+                      <a href="https://github.com/janiljohn/my-app" target="_blank">
+                        <i class="bi bi-github"></i>
+                      </a>
+                    </div>
+                  </div>              
+                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" class="badges">
+                    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="" class="badges">
+                    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" class="badges">
+                    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="" class="badges">
+                    <hr class="hr-padding">
+                  <div class="content">
+                    A web application built using React and Google Cloud Platform's Firebase that allows users to discover and create playlists of movies.
+                  </div>
+                </div>
+              </div>
+            </div>
 
         </div>
 
