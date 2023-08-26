@@ -206,6 +206,33 @@ import { Component, OnInit } from '@angular/core';
               </div>
             </div>
 
+            <div class="column is-half">
+              <div class="card">
+                <div class="card-content">
+                  <div class="card-image has-text-centered">
+                      <figure class="image is-inline-block">
+                          <img class="" src="/assets/img/stock-trader.png"/>
+                      </figure>
+                  </div>
+                  <div class="title is-6 project-title-spacing">
+                    Movify
+                    <div class="is-inline-block inner-div">
+                      <a href="https://github.com/janiljohn/stock-trader" target="_blank">
+                        <i class="bi bi-github"></i>
+                      </a>
+                    </div>
+                  </div>              
+                    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" class="badges">
+                    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="" class="badges">
+                    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" class="badges">
+                    <hr class="hr-padding">
+                  <div class="content">
+                  Full-stack web application utilizing React and AWS services for tracking stock portfolios.
+                  </div>
+                </div>
+              </div>
+            </div>
+
         </div>
 
       </div>
