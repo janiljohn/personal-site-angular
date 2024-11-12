@@ -215,7 +215,7 @@ import { Component, OnInit } from '@angular/core';
                       </figure>
                   </div>
                   <div class="title is-6 project-title-spacing">
-                    Movify
+                    Investment Tracker
                     <div class="is-inline-block inner-div">
                       <a href="https://github.com/janiljohn/stock-trader" target="_blank">
                         <i class="bi bi-github"></i>

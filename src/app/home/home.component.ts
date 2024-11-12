@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
         <p class="title">
           Joel Anil John
         </p>
-        <p>Computer Science Major @  <a href="http://www.fullerton.edu/" class="tag is-warning">CSUF!</a> </p>
+        <p>Computer Science Major @  <a href="https://uci.edu/" class="tag is-warning">UCI!</a> </p>
       </div>
       </div>
       <!-- <div id="projects"></div> -->
